@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Mortgage Brokers",
+  "description": "A premium, highly polished corporate homepage for Meridian Mortgage Brokers in Melbourne, featuring interactive loan calculation tools, client testimonials, service details, and responsive layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
